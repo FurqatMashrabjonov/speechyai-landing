@@ -147,8 +147,8 @@ export default function PrivacyPage() {
           </ul>
           <p className="mt-3">
             To exercise any of these rights, contact us at{" "}
-            <a href="mailto:privacy@speechyai.com" className="text-[#E8622A] hover:underline">
-              privacy@speechyai.com
+            <a href="mailto:mashrabjonovfurqat@gmail.com" className="text-[#E8622A] hover:underline">
+              mashrabjonovfurqat@gmail.com
             </a>.
           </p>
         </Section>
@@ -163,7 +163,7 @@ export default function PrivacyPage() {
           <p>If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:</p>
           <div className="mt-4 p-4 rounded-xl bg-muted text-sm space-y-1">
             <p><strong>Speechy AI</strong></p>
-            <p>Email: <a href="mailto:privacy@speechyai.com" className="text-[#E8622A] hover:underline">privacy@speechyai.com</a></p>
+            <p>Email: <a href="mailto:mashrabjonovfurqat@gmail.com" className="text-[#E8622A] hover:underline">mashrabjonovfurqat@gmail.com</a></p>
           </div>
         </Section>
 
